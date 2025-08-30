@@ -1,8 +1,9 @@
 # NGTO Builder
-![Static Badge](https://img.shields.io/badge/RTM-1.7.10.44%EF%BD%9E-00cd00?link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Frealtrainmod%2Ffiles)
-![Static Badge](https://img.shields.io/badge/RTM-2.4.24%EF%BD%9E-46bcff?link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Frealtrainmod)
-![Static Badge](https://img.shields.io/badge/KaizPatch-1.8.0%EF%BD%9E-57b57b?link=https%3A%2F%2Fgithub.com%2FKai-Z-JP%2FKaizPatchX)
-![Static Badge](https://img.shields.io/badge/fixRTM-2.0.28%EF%BD%9E-1082c3?link=https%3A%2F%2Fgithub.com%2Ffixrtm%2FfixRTM)
+[![Static Badge](https://img.shields.io/badge/RTM-1.7.10.44%EF%BD%9E-00cd00)](https://www.curseforge.com/minecraft/mc-mods/realtrainmod/files)
+[![Static Badge](https://img.shields.io/badge/KaizPatch-1.8.0%EF%BD%9E-57b57b)](https://github.com/Kai-Z-JP/KaizPatchX)
+[![Static Badge](https://img.shields.io/badge/RTM-2.4.24%EF%BD%9E-46bcff)](https://www.curseforge.com/minecraft/mc-mods/realtrainmod/files)
+[![Static Badge](https://img.shields.io/badge/fixRTM-2.0.28%EF%BD%9E-1082c3)](https://github.com/fixrtm/fixRTM)
+
 
 ## ダウンロード / Download
 最新版は[こちら](https://github.com/hi03s/NGTO-Builder/releases/latest)<br>
@@ -10,11 +11,14 @@ The latest version is [here](https://github.com/hi03s/NGTO-Builder/releases/late
 
 
 ## 概要 / About
-ミニチュアブロック(NGTO)を、ラインを引いて連続設置したり回転させて単体設置したりする機能を持った自動車モデルを追加します。
+ミニチュアブロック(NGTO)を連続配置したり、角度をつけて配置するための自動車モデルを追加します。<br>
+Adds a car model for placing miniature blocks (NGTO) continuously or at an angle.
 
 ## RTMバージョン / RTM Version
+### MC1.7.10
 * [RTM1.7.10.44～](https://www.curseforge.com/minecraft/mc-mods/realtrainmod/files)
 * [KaizPatchX-1.8.0～](https://github.com/Kai-Z-JP/KaizPatchX)
+### MC1.12
 * [RTM2.4.24～](https://github.com/fixrtm/fixRTM)
 * [fixRTM-2.0.28～](https://www.curseforge.com/minecraft/mc-mods/realtrainmod/files)
 
