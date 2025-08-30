@@ -1,0 +1,40 @@
+name: 不具合の報告 / Bug Report
+description: 不具合を報告します / Create a report to help us improve
+title: "[BUG]: "
+labels: ["bug"]
+assignees:
+  - hi03s
+  
+body:
+  - type: textarea
+    attributes:
+      label: 不具合の内容 / Describe the bug
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 不具合の手順 / To Reproduce
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: スクリーンショット / Screenshots
+    validations:
+      required: false
+      
+  - type: textarea
+    attributes:
+      label: クラッシュレポート / Crash report
+    validations:
+      required: false
+      
+  - type: textarea
+    attributes:
+      label: バージョン情報 / Version Information
+      value: >
+        Minecraft Version : 1.7.10 / 1.12.2
+        RTM Version : RTM1.7.10.46, KaizPatch1.9.2, fixRTM2.0.28
+    validations:
+      required: true
