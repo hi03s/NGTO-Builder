@@ -1,0 +1,28 @@
+{
+    "name": "NGTOBuilder_Measure",
+    "model": {
+        "modelFile": "NGTOBuilder/Measure.mqo",
+        "textures": [
+            ["mat1", "textures/NGTOBuilder/Measure.png", "AlphaBlend"],
+            ["mat2", "textures/NGTOBuilder/help.png", "AlphaBlend"]
+        ],
+        "rendererPath": "scripts/NGTOBuilder/Measure/render_Measure.js"
+    },
+    "buttonTexture": "textures/NGTOBuilder/button_Measure.png",
+    "serverScriptPath": "scripts/NGTOBuilder/Measure/server_Measure.js",
+    "playerPos": [[0, 0, 0]],
+    "vehicleType": "Car",
+    "size": [1, 1],
+    "vibration":[0.0, 0.0],
+    "friction": [0.0, 0.0],
+    "acceleration": [0.0, 0.0],
+    "maxSpeed": [0.0, 0.0],
+    "maxYaw": [0.0, 0.0],
+    "pitchCoefficient": [0.0, 0.0],
+    "yawCoefficient": [0.0, 0.0],
+    "useCustomColor": false,
+    "smoothing": true,
+    "doCulling": true,
+    "changeYawOnStopping": false,
+    "accuracy": "LOW"
+}
