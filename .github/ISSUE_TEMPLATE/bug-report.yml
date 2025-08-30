@@ -34,7 +34,6 @@ body:
     attributes:
       label: バージョン情報 / Version Information
       value: >
-        Minecraft Version : 1.7.10 / 1.12.2
         RTM Version : RTM1.7.10.46, KaizPatch1.9.2, fixRTM2.0.28
     validations:
       required: true
